@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-09-11T20:45:52.605Z",
+  "menuDate": "11.09.2026",
+  "weekday": "ПЕТЪК",
+  "outDir": "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-11",
+  "note": "ВНИМАНИЕ: сайтът не показа менюто за 2026-09-12 до крайния срок — слайдовете са с последното публикувано (11.09.2026).",
+  "photoA": {
+    "name": "Гювеч с телешко месо",
+    "onMenu": true
+  },
+  "photoB": {
+    "name": "Салата Табули",
+    "onMenu": true
+  },
+  "matchedPhotos": 12,
+  "sectionsFound": 7,
+  "slides": [
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-11\\slide-1.png",
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-11\\slide-2.png",
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-11\\slide-3.png",
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-11\\slide-4.png"
+  ]
+}
