@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-10-24T10:46:36.783Z",
+  "menuDate": "23.10.2026",
+  "weekday": "ПЕТЪК",
+  "outDir": "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-10-23",
+  "note": "ВНИМАНИЕ: сайтът не показа менюто за 2026-10-24 до крайния срок — слайдовете са с последното публикувано (23.10.2026).",
+  "photoA": {
+    "name": "Гювеч с телешко месо",
+    "onMenu": true
+  },
+  "photoB": {
+    "name": "Макарони на фурна",
+    "onMenu": true
+  },
+  "matchedPhotos": 13,
+  "sectionsFound": 7,
+  "slides": [
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-10-23\\slide-1.png",
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-10-23\\slide-2.png",
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-10-23\\slide-3.png",
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-10-23\\slide-4.png"
+  ]
+}
