@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-09-15T18:12:35.424Z",
+  "menuDate": "16.09.2026",
+  "weekday": "СРЯДА",
+  "outDir": "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-16",
+  "note": null,
+  "photoA": {
+    "name": "Гръцка мусака",
+    "onMenu": true
+  },
+  "photoB": {
+    "name": "Макарони на фурна",
+    "onMenu": true
+  },
+  "matchedPhotos": 11,
+  "sectionsFound": 7,
+  "slides": [
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-16\\slide-1.png",
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-16\\slide-2.png",
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-16\\slide-3.png",
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-16\\slide-4.png"
+  ]
+}
