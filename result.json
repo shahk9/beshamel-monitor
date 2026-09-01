@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-09-25T20:41:17.929Z",
+  "menuDate": "25.09.2026",
+  "weekday": "ПЕТЪК",
+  "outDir": "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-25",
+  "note": "ВНИМАНИЕ: сайтът не показа менюто за 2026-09-26 до крайния срок — слайдовете са с последното публикувано (25.09.2026).",
+  "photoA": {
+    "name": "Боб яхния",
+    "onMenu": true
+  },
+  "photoB": {
+    "name": "Салата Снежанка",
+    "onMenu": true
+  },
+  "matchedPhotos": 13,
+  "sectionsFound": 7,
+  "slides": [
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-25\\slide-1.png",
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-25\\slide-2.png",
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-25\\slide-3.png",
+    "C:\\Users\\shahb\\Documents\\Claude\\Projects\\Beshamel-Monitor\\output\\2026-09-25\\slide-4.png"
+  ]
+}
